@@ -7,7 +7,7 @@
   // name your instance!
   "title": "ZalemCoin ZLM Explorer",
 
-  "address": "127.0.0.1:80",
+  "address": "127.0.0.1:30080",
 
   // coin name
   "coin": "ZalemCoin",
@@ -29,7 +29,7 @@
   "theme": "Slate",
 
   // port to listen for requests on.
-  "port" : 80,
+  "port" : 30080,
 
   // database settings (MongoDB)
   "dbsettings": {
