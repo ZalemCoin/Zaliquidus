@@ -47,7 +47,7 @@
   // wallet settings
   "wallet": {
     "host": "localhost",
-    "port": 10879,
+    "port": 30097,
     "user": "zalemcoinrpc",
     "pass": "SomeOtherWorldlyPasswordGoesHere1"
   },
